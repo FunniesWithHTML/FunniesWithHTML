@@ -1,7 +1,9 @@
+<div align='center'>
 <img src="https://media2.giphy.com/media/vGU8HPEygX9D2/giphy.gif"></img>
+</div>
 <br/>
 <div align = 'center'>
-### Hello there, I am simple guy
+   <h1><strong>Hello there, I am simple guy</strong></h1>
 <br/>
 <br/>
 🔭 I’m currently working on ... Work<br/>
