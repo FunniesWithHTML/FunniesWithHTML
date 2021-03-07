@@ -1,5 +1,6 @@
 <img src="https://media2.giphy.com/media/vGU8HPEygX9D2/giphy.gif"></img>
 <br/>
+<div align = 'center'>
 ### Hello there, I am simple guy
 <br/>
 <br/>
@@ -11,4 +12,6 @@
 📫 How to reach me: ... I don't know<br/>
 😄 Pronouns: ... He She It. I can remember this in school<br/>
 ⚡ Fun fact: ... This is not fun<br/>
+  [![FunniesWithHTML's GitHub stats](https://github-readme-stats.vercel.app/api?username=FunniesWithHTML)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
