@@ -12,6 +12,9 @@
 📫 How to reach me: ... I don't know<br/>
 😄 Pronouns: ... He She It. I can remember this in school<br/>
 ⚡ Fun fact: ... This is not fun<br/>
-  [![FunniesWithHTML's GitHub stats](https://github-readme-stats.vercel.app/api?username=FunniesWithHTML)](https://github.com/anuraghazra/github-readme-stats)
+   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=FunniesWithHTML&show_icons=true&count_private=true&theme=buefy" />&nbsp;
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunniesWithHTML&layout=compact&count_private=true&theme=buefy" alt="LoveAIS" />
+
+
 
 </div>
