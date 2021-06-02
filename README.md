@@ -1,4 +1,9 @@
-  <h1><strong>Hello there, I am simple guy</strong></h1>
+<div align='center'>
+<img src="https://media2.giphy.com/media/vGU8HPEygX9D2/giphy.gif"></img>
+</div>
+<br/>
+<div align = 'center'>
+   <h1><strong>Hello there, I am simple guy</strong></h1>
 <br/>
 <br/>
 🔭 I’m currently working on Opensource projects<br/>
@@ -11,3 +16,7 @@
 ⚡ Fun fact: I like Half life<br/>
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=FunniesWithHTML&show_icons=true&count_private=true&theme=buefy" />&nbsp;
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunniesWithHTML&layout=compact&count_private=true&theme=buefy" alt="LoveAIS" />
+
+
+
+</div>
