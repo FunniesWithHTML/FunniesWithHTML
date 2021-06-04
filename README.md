@@ -7,7 +7,7 @@
 <br/>
 <br/>
 🔭 I’m currently working on Opensource projects<br/>
-🌱 I’m currently learning R, Javascript, Java<br/>
+🌱 I’m currently learning Java<br/>
 👯 I’m looking to collaborate on My Projects<br/>
 🤔 I’m looking for help with Data, Algorithms or something?<br/>
 💬 Ask me about anything<br/>
